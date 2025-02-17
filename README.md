@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I'm prince Vegeta 
+## I'm prince Vegete - New King for the thorne 👑
 ![My Intro Video](assets/pain_vegeta.gif)
 
