@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## I'm prince Vegeta 
+![My Intro Video](assets/pain_vegeta.gif)
+
