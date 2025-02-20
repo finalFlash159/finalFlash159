@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I'm prince Vegete <img src="assets/vegeta-super-saiyan.png" width="20" height="20"> - New King for the thorne 👑
-**Kakarotttttt ?!?!?? Damn it!** 😡🤬🤬🤯
-
 ![My Intro Video](assets/pain_vegeta.gif)
