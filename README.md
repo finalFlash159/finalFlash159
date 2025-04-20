@@ -11,7 +11,7 @@ I am currently a student at the **University of Science, Vietnam National Univer
 - **Email**: vo.m.thinh@gmail.com  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-ThinhVoMinh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vmthinh)
 </div>
-<div>
+<div style="margin-left: auto;">
 <img src="assets/wall-e-hanging-around.gif" alt="Wall-E hanging around" width="90">
 </div>
 </div>
