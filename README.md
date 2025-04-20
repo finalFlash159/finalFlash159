@@ -8,7 +8,7 @@ I am currently a student at the **University of Science, Vietnam National Univer
   
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ThinhVoMinh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vmthinh)    
   
-       <img src="assets/walle.gif" alt="Wall-E hanging around" width="85" style="position:relative; top:-110px; left:230px; margin; vertical-align:bottom; margin-bottom:10px">
+<img src="assets/walle.gif" alt="Wall-E hanging around" width="85" style="position:relative; top:-110px; left:230px; margin; vertical-align:bottom; margin-bottom:10px">
 
 
 <br>
