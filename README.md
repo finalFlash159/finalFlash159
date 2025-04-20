@@ -5,8 +5,6 @@ I am currently a student at the **University of Science, Vietnam National Univer
 
 ## Contact me
 
-<hr style="border:0;border-top:1px solid #444;margin:0;"/>
-
 <div style="display:flex; align-items:center; justify-content:space-between; margin-top:8px;">
   <!-- Left side: Email + LinkedIn -->
   <div>
