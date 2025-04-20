@@ -1,4 +1,4 @@
-# Hello! 👋      <img src="assets/walle.gif" alt="Wall-E hanging around" width="70" style="vertical-align:bottom; margin-bottom:-25px; margin-left:-10px;">
+# Hello! 👋&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/walle.gif" alt="Wall-E hanging around" width="70" style="vertical-align:bottom; margin-bottom:-25px; margin-left:-10px;">
 
 
 I am **Thinh**, a Data Science student passionate about AI and its applications 📊  
