@@ -9,7 +9,7 @@ I am currently a student at the **University of Science, Vietnam National Univer
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-ThinhVoMinh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vmthinh)
 
 <p align="right">
-<img src="assets/wall-e-hanging-around.gif" alt="Wall-E hanging around" width="180">
+<img src="assets/walle.gif" alt="Wall-E hanging around" width="100">
 </p>
 
 <br>
