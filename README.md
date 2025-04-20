@@ -6,14 +6,14 @@ I am currently a student at the **University of Science, Vietnam National Univer
 ## Contact me
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-<div>
+    <div>
 
-- **Email**: vo.m.thinh@gmail.com  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-ThinhVoMinh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vmthinh)
-</div>
-<div style="margin-left: auto;">
-<img src="assets/wall-e-hanging-around.gif" alt="Wall-E hanging around" width="90">
-</div>
+  - **Email**: vo.m.thinh@gmail.com  
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-ThinhVoMinh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vmthinh)
+    </div>
+    <div style="margin-left: auto;">
+    <img src="assets/wall-e-hanging-around.gif" alt="Wall-E hanging around" width="90">
+    </div>
 </div>
 
 <br>
