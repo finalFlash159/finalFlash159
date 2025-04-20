@@ -5,13 +5,19 @@ I am currently a student at the **University of Science, Vietnam National Univer
 
 ## Contact me
 
-<hr>
-
-<ul style="list-style-type: none; position: relative;">
-  <li>• **Email**: [vo.m.thinh@gmail.com](mailto:vo.m.thinh@gmail.com)</li>  
-  <li>• [![LinkedIn](https://img.shields.io/badge/LinkedIn-ThinhVoMinh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vmthinh)</li>
-  <li style="position: absolute; right: 0; top: -50px;"><img src="assets/walle.gif" alt="Wall-E hanging around" width="120"></li>
-</ul>
+<table style="border: none; border-collapse: collapse;">
+<tr>
+<td style="border: none;">
+	
+**Email**: vo.m.thinh@gmail.com  
+	
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ThinhVoMinh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vmthinh)
+</td>
+<td style="border: none;">
+<img src="assets/walle.gif" alt="Wall-E hanging around" width="90">
+</td>
+</tr>
+</table>
 
 <br>
 
