@@ -5,15 +5,15 @@ I am currently a student at the **University of Science, Vietnam National Univer
 
 ## Contact me
 
-<table style="border: none; border-collapse: collapse;">
-<tr>
-<td style="border: none;">
+<table style="border: none; border-collapse: collapse; border-spacing: 0;"">
+<tr style="border: none;">
+<td style="border: none; padding: 0;">
 	
 **Email**: vo.m.thinh@gmail.com  
 	
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ThinhVoMinh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vmthinh)
 </td>
-<td style="border: none;">
+<td style="border: none; padding: 0;">
 <img src="assets/walle.gif" alt="Wall-E hanging around" width="90">
 </td>
 </tr>
