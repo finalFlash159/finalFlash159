@@ -4,9 +4,20 @@ I am **Thinh**, a Data Science student passionate about AI and its applications 
 I am currently a student at the **University of Science, Vietnam National University, Ho Chi Minh City** **🔬**
 
 ## Contact me
-- **Email**: vo.m.thinh@gmail.com<img src="assets/walle.gif" alt="Wall-E hanging around" width="85" style="position:relative; top:-110px; left:250px; margin; vertical-align:bottom; margin-bottom:10px">
-  
--  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ThinhVoMinh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vmthinh)    
+
+<table border="0">
+<tr>
+<td>
+
+- **Email**: vo.m.thinh@gmail.com  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-ThinhVoMinh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vmthinh)
+
+</td>
+<td>
+<img src="assets/wall-e-hanging-around.gif" alt="Wall-E hanging around" width="150">
+</td>
+</tr>
+</table>
 
 <br>
 
