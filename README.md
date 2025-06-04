@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I am **Thinh**, a Data Science student passionate about AI and its applications 📊  <img src="assets/walle.gif" alt="Wall-E hanging around" width="30" style="vertical-align: bottom; margin-left: -5px;">
+I am **Thinh**, a Data Science student passionate about AI and its applications 📊 
 
 Currently, I am studying at the **University of Science, Vietnam National University, Ho Chi Minh City** 🔬
 
