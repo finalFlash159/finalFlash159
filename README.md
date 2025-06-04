@@ -1,11 +1,12 @@
 # Hello! 👋
 
 I am **Thinh**, a Data Science student passionate about AI and its applications 📊  <img src="assets/walle.gif" alt="Wall-E hanging around" width="30" style="vertical-align: bottom; margin-left: -5px;">
+
 Currently, I am studying at the **University of Science, Vietnam National University, Ho Chi Minh City** 🔬
 
 ## 📝 My Blog
 
-I share my thoughts and learnings about Data Science, AI, and technology on my blog:
+I share my thoughts and learnings on my blog:
 
 [![Hashnode](https://img.shields.io/badge/Hashnode-Blog-2962FF?style=flat&logo=hashnode&logoColor=white)](https://thinh-out-loud-with-thinhnotes.hashnode.dev)
 
